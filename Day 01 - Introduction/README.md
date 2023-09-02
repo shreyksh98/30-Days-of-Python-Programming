@@ -1,3 +1,7 @@
+<div align="center">
+  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
+</div>
+
 [📘 Day 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
